@@ -1,5 +1,5 @@
 import React from "react";
-import "./HomeSection.css";
+import "./homesection.css";
 
 const HomeSection = () => {
   return (
